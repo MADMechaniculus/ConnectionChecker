@@ -1,0 +1,9 @@
+C:\Users\MAD_DED\source\repos\connectionChecker\connectionChecker\obj\Debug\connectionChecker.csprojAssemblyReference.cache
+C:\Users\MAD_DED\source\repos\connectionChecker\connectionChecker\obj\Debug\connectionChecker.Form1.resources
+C:\Users\MAD_DED\source\repos\connectionChecker\connectionChecker\obj\Debug\connectionChecker.Properties.Resources.resources
+C:\Users\MAD_DED\source\repos\connectionChecker\connectionChecker\obj\Debug\connectionChecker.csproj.GenerateResource.cache
+C:\Users\MAD_DED\source\repos\connectionChecker\connectionChecker\bin\Debug\connectionChecker.exe.config
+C:\Users\MAD_DED\source\repos\connectionChecker\connectionChecker\bin\Debug\connectionChecker.exe
+C:\Users\MAD_DED\source\repos\connectionChecker\connectionChecker\bin\Debug\connectionChecker.pdb
+C:\Users\MAD_DED\source\repos\connectionChecker\connectionChecker\obj\Debug\connectionChecker.exe
+C:\Users\MAD_DED\source\repos\connectionChecker\connectionChecker\obj\Debug\connectionChecker.pdb
